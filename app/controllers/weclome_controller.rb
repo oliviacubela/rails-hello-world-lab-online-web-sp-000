@@ -1,6 +1,6 @@
 class WelcomeController < ApplicationController
 
-  def hello_world
+  def about
     render 'hello_world'
   end
 end
