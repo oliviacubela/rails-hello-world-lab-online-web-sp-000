@@ -16,3 +16,11 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 22ms (Views: 9.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 99.130.52.16 at 2020-11-02 19:06:42 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.1/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
